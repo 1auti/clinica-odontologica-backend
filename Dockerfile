@@ -1,4 +1,4 @@
-FROM amazoncorreto:17-alpine-jdk
+FROM  adoptopenjdk:17-jdk-hotspot
 
 MAINTAINER lautaroCenizo
 
