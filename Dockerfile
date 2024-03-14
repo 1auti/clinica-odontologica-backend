@@ -1,4 +1,4 @@
-FROM amazoncorreto:17-alpine-jdk
+FROM openjdk:17-jdk
 
 MAINTAINER lautaroCenizo
 
