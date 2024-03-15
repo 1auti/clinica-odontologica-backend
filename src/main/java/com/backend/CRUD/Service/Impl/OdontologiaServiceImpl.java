@@ -175,7 +175,7 @@ public class OdontologiaServiceImpl implements OdontologoService {
         //IMAGEN
         if(!file.isEmpty()){
             //Path directorioImagen = Paths.get("C:/Users/Lautaro/Desktop/Proyectos/proyecto-clinica-odontologica/frontend/src/imagenes");
-            String rutaAbsoluta = "C://Users//Lautaro//Desktop//Proyectos//proyecto-clinica-odontologica//imagenes";
+            String rutaAbsoluta = "C://Users//Lautaro//Desktop//Desarrollo-web//Proyectos//proyecto-clinica-odontologica//imagenes";
 
             try {
                 byte[] byteImg = file.getBytes();
